@@ -2,7 +2,7 @@
 
 node { 
 
-  echo "Helo Brazil" 
+  echo "Helo Brazil and world" 
   
  } 
   
